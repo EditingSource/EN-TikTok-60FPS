@@ -134,16 +134,17 @@ If you find this project useful and want to support its development, you can don
 ❗ Make sure you have the latest version of your graphics card drivers to avoid errors and visual artifacts.
 
 # ⚠️ Important
-> Please read this information before use.
+> Please read this information before use
 
-* We are not responsible for your accounts.
-* After processing, your video may not play correctly in most players.
-* Your video will be in slow motion on the web version of the platform.
-* Our software does not access your accounts in any way.
-* Before reporting an error, please make sure all requirements for proper application operation are met.
-* To date, no accounts have been blocked or banned.
+* We are not responsible for your accounts
+* After processing, your video may not play correctly in most players
+* Your video will be in slow motion on the web version of the platform
+* Our software does not access your accounts in any way
+* Before reporting an error, please make sure all requirements for proper application operation are met
+* To date, no accounts have been blocked or banned
 * On very sharp transitions in video, interpolation can cause warps
-
+* On weak/old devices, playback issues may occur (not always)
+* 
 # Other Open-Source Code Used
 
 * https://github.com/Kinnara/ModernWpf - For styles in App (MIT License)
@@ -152,6 +153,6 @@ If you find this project useful and want to support its development, you can don
 ---
   
 <div align="center">
-  <em>© 2025 EditingNews, Evilfy — Licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0">GPLv3 License</a></em>
+<em>© 2025 EditingNews, Evilfy — Licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a></em>
 </div>
 
