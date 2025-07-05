@@ -144,7 +144,7 @@ If you find this project useful and want to support its development, you can don
 * To date, no accounts have been blocked or banned
 * On very sharp transitions in video, interpolation can cause warps
 * On weak/old devices, playback issues may occur (not always)
-* 
+  
 # Other Open-Source Code Used
 
 * https://github.com/Kinnara/ModernWpf - For styles in App (MIT License)
@@ -153,6 +153,8 @@ If you find this project useful and want to support its development, you can don
 ---
   
 <div align="center">
-<em>© 2025 EditingNews, Evilfy — Licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a></em>
+  <em>© 2025 EditingNews, Evilfy — Licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.<br>
+  Source code of some files is available under the <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU GPL v3</a>.</em>
 </div>
+
 
