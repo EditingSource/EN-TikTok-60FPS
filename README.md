@@ -74,7 +74,7 @@ If you find this project useful and want to support its development, you can don
 > The following is an example of how to use the application<br>
 > It is recommended to select the parameters manually
 
-💡 <b>It is highly recommended to watch the latest tutorial in our telegram channel for a full understanding of the process</b>
+💡 <b>It is highly recommended to watch the latest tutorial in our [telegram channel](https://t.me/editing_news) for a full understanding of the process</b>
 
 1. Import your video
 2. Configure interpolation (RIFE 4.6, X2 by default) or disable it
