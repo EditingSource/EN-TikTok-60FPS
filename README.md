@@ -61,7 +61,7 @@ If you find this project useful and want to support its development, you can don
 ## [Download](https://github.com/EditingSource/EN-TikTok-60FPS/)
 > This release package includes the UI version of the application with pre-installed RIFE models and FFmpeg for seamless video interpolation and processing.
 
-<b>You can install the latest version of the application using the installer (recommended) or select the desired release in the [releases](https://github.com/EditingSource/EN-TikTok-60FPS/releases) tab.</b>
+💡 <b>You can install the latest version of the application using the installer (recommended) or select the desired release in the [releases](https://github.com/EditingSource/EN-TikTok-60FPS/releases) tab.</b>
 
 ### System Requirements:
 * Windows 10/11
@@ -74,7 +74,7 @@ If you find this project useful and want to support its development, you can don
 > The following is an example of how to use the application<br>
 > It is recommended to select the parameters manually
 
-<b>It is highly recommended to watch the latest tutorial in our telegram channel for a full understanding of the process</b>
+💡 <b>It is highly recommended to watch the latest tutorial in our telegram channel for a full understanding of the process</b>
 
 1. Import your video
 2. Configure interpolation (RIFE 4.6, X2 by default) or disable it
@@ -85,7 +85,7 @@ If you find this project useful and want to support its development, you can don
 # MP4 Atom Patching
 > Atom patching is used to improve video smoothness and maintain stable FPS and quality
 
-<b>Patching atoms in MP4 is needed to locate and modify specific data structures (atoms) in the MP4 file — specifically the mvhd and mdhd atoms. The application reads their timing parameters (timescale and duration), scales them by a given factor, and writes them back to the file. This allows changing video playback speed in the player without re-encoding</b>
+💡 <b>Patching atoms in MP4 is needed to locate and modify specific data structures (atoms) in the MP4 file — specifically the mvhd and mdhd atoms. The application reads their timing parameters (timescale and duration), scales them by a given factor, and writes them back to the file. This allows changing video playback speed in the player without re-encoding</b>
 
 ### Scale Factor Examples:
 | Input FPS | Scale Factor | Output FPS | 
@@ -102,7 +102,7 @@ If you find this project useful and want to support its development, you can don
 # RIFE Interpoation
 > Interpolation is used to improve the smoothness and fps of video using AI
 
-<br><b>The application uses the [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) library by [nihui](https://github.com/nihui/) for video interpolation (MIT License)</b>
+💡 <b>The application uses the [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) library by [nihui](https://github.com/nihui/) for video interpolation (MIT License)</b>
 
 ### Available Models:
 | model | upstream version | Description |
@@ -110,7 +110,7 @@ If you find this project useful and want to support its development, you can don
 | rife-v4 | 4.0 | Fast General Model |
 | rife-v4.6 | 4.6 | General Model, Recommended | 
 
-<b>If you encounter a crash or error, try upgrading your GPU driver:</b>
+❗ <b>If you encounter a crash or error, try upgrading your GPU driver:</b>
 
 * Intel: https://downloadcenter.intel.com/product/80939/Graphics-Drivers
 * AMD: https://www.amd.com/en/support
@@ -123,7 +123,7 @@ If you find this project useful and want to support its development, you can don
 # FFmpeg Video Decoding/Encoding
 > FFmpeg is used to split a video into frames and then re-encode it back into video for interpolation
 
-<b>The application uses the [codexffmpeg](https://github.com/GyanD/codexffmpeg) build by [GyanD](https://github.com/GyanD/)</b>
+💡 <b>The application uses the [codexffmpeg](https://github.com/GyanD/codexffmpeg) build by [GyanD](https://github.com/GyanD/)</b>
 
 ### Supported Codecs:
 | Codec | Description | Support |
@@ -131,7 +131,7 @@ If you find this project useful and want to support its development, you can don
 | libx264 |	CPU-based H.264 encoding | All |
 | h264_nvenc |	NVIDIA GPU-accelerated H.264 encoding | Nvidia Only
 
-* Make sure you have the latest version of your graphics card drivers to avoid errors and visual artifacts.
+❗ Make sure you have the latest version of your graphics card drivers to avoid errors and visual artifacts.
 
 # ⚠️ Important
 > Please read this information before use.
