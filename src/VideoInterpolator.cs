@@ -2,7 +2,7 @@
 // VideoInterpolator - C#/.NET Wrapper for RIFE (nihui/rife-ncnn-vulkan)
 // 2025 Editing News, Evilfy.
 // Distributed under the terms of the GNU General Public License v3.0.
-// See the LICENSE file for details.
+// See https://www.gnu.org/licenses/gpl-3.0.html for details.
 //
 
 using System;
