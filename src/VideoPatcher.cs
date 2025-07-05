@@ -12,7 +12,7 @@ using System.IO;
 namespace Mp4Tools
 {
     /// <summary>
-    /// Provides static methods to patch timescale and duration values in MP4 container atoms (like 'mvhd' and 'mdhd').
+    /// Provides static methods to patch timescale and duration values in MP4 container atoms (like 'mvhd' and 'mdhd')
     /// </summary>
     public static class VideoPatcher
     {
