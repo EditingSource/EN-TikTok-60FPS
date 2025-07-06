@@ -12,7 +12,6 @@
 
 [![.NET](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/) 
 [![WPF](https://img.shields.io/badge/WPF-UI-lightgrey.svg)](https://learn.microsoft.com/dotnet/desktop/wpf/) 
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 [![Releases](https://img.shields.io/github/v/release/EditingSource/EN-TikTok-60FPS?include_prereleases)](https://github.com/EditingNews/EN-TikTok-60FPS/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/editing_news) 
 [![Discord](https://img.shields.io/badge/Discord-Server-7289DA.svg?logo=discord)](https://discord.gg/usVCEAPyF8)
