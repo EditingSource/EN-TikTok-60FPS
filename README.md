@@ -57,10 +57,10 @@ If you find this project useful and want to support its development, you can don
 
 
 
-## [Download](https://github.com/EditingSource/EN-TikTok-60FPS/)
+## [Download](https://github.com/EditingSource/EN-TikTok-60FPS/releases/download/1.2.5/EN-Tiktok60FPS.Installer.exe)
 > This release package includes the UI version of the application with pre-installed RIFE models and FFmpeg for seamless video interpolation and processing.
 
-💡 <b>You can install the latest version of the application using the installer (recommended) or select the desired release in the [releases](https://github.com/EditingSource/EN-TikTok-60FPS/releases) tab.</b>
+💡 <b>You can install the latest version of the application using the [installer](https://github.com/EditingSource/EN-TikTok-60FPS/releases/download/1.2.5/EN-Tiktok60FPS.Installer.exe) (recommended) or select the desired release in the [releases](https://github.com/EditingSource/EN-TikTok-60FPS/releases) tab.</b>
 
 ### System Requirements:
 * Windows 10/11
