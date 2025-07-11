@@ -8,7 +8,7 @@
 <h1 align="center">EN-TikTok-60FPS</h1>
 <div align="center">
 
-<b>A WPF UI application in C# designed to enhance video quality for smooth playback at 60 frames per second, working together with our extension.</b>
+<b>A WPF UI application in C# designed to enhance video quality for smooth playback at 60 frames per second, working together with our [extension](https://chromewebstore.google.com/detail/editing-news-x-retiktok/kflflcpnnkojolplllfgcjobkgjmpdon?).</b>
 
 [![.NET](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/) 
 [![WPF](https://img.shields.io/badge/WPF-UI-lightgrey.svg)](https://learn.microsoft.com/dotnet/desktop/wpf/) 
@@ -78,7 +78,7 @@ If you find this project useful and want to support its development, you can don
 1. Import your video
 2. Configure interpolation (RIFE 4.6, X2 by default) or disable it
 3. Choose the scale factor manually or leave it automatic
-4. Upload your video to the platform on the website using the extension
+4. Upload your video to the platform on the website using the [extension](https://chromewebstore.google.com/detail/editing-news-x-retiktok/kflflcpnnkojolplllfgcjobkgjmpdon?)
 5. Make your video publicly accessible
 
 # MP4 Atom Patching
@@ -135,7 +135,7 @@ If you find this project useful and want to support its development, you can don
 # ⚠️ Important
 > Please read this information before use
 
-* We are not responsible for your accounts
+* You are responsible for your own account
 * After processing, your video may not play correctly in most players
 * Your video will be in slow motion on the web version of the platform
 * Our software does not access your accounts in any way
