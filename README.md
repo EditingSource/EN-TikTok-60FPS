@@ -8,7 +8,7 @@
 <h1 align="center">EN-TikTok-60FPS</h1>
 <div align="center">
 
-<b>A WPF UI application in C# designed to enhance video quality for smooth playback at 60 frames per second on a well-known platform, working together with our extension.</b>
+<b>A WPF UI application in C# designed to enhance video quality for smooth playback at 60 frames per second, working together with our extension.</b>
 
 [![.NET](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/) 
 [![WPF](https://img.shields.io/badge/WPF-UI-lightgrey.svg)](https://learn.microsoft.com/dotnet/desktop/wpf/) 
@@ -140,9 +140,9 @@ If you find this project useful and want to support its development, you can don
 * Your video will be in slow motion on the web version of the platform
 * Our software does not access your accounts in any way
 * Before reporting an error, please make sure all requirements for proper application operation are met
-* To date, no accounts have been blocked or banned
 * On very sharp transitions in video, interpolation can cause warps
 * On weak/old devices, playback issues may occur (not always)
+* The project is intended for personal use and is not intended to violate the terms of use of third-party services
   
 # Other Open-Source Code Used
 
